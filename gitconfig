@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olgakoje@gmail.com
+	name = Olga Kojevnikova
